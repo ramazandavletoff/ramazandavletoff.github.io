@@ -1,2 +1,2 @@
-# ramazandavletoff.github.io
+# Рамазан Давлетов
 Мой проект
